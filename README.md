@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 TY B.Sc. IT student passionate about technology and real-world applications
+- 🎓 TY B.Sc. IT student @ UPG College of Art, Science & Commerce
 - 🚀 Focused on full-stack development using Java Spring Boot and React
 - 🔧 Love building tools that automate and simplify daily tasks
 - 💬 Always learning, building, and sharing
