@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Anuj Yadav 👋</h1>
 
-<p align="center">
+<p >
   <strong>Software Developer | Java Full-Stack Enthusiast</strong><br/>
   Currently building <a href="https://github.com/anujyadav2244/cricbook">Cricbook - Local Cricket Scoring Web App</a>
 </p>
