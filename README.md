@@ -2,7 +2,7 @@
 
 # Hey there, I'm Anuj Yadav 👋
 
-I'm a passionate full-stack developer in the making, always excited to build something meaningful with code. From crafting responsive frontends to engineering robust backends, I love solving real-world problems through web development. Currently leveling up with Spring Boot, React, Firebase, and more! Let’s build something amazing together! 🚀💻
+I'm a passionate full-stack java developer in the making, always excited to build something meaningful with code. From crafting responsive frontends to engineering robust backends, I love solving real-world problems through web development. Currently leveling up with Spring Boot, React, Firebase, and more! Let’s build something amazing together! 🚀💻
 
 ## 🛠️ My Tech Stack
 
