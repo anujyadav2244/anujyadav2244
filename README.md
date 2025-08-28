@@ -52,7 +52,7 @@ Paste a news article URL and get a quick, Gemini AI-generated summary. Built wit
 Test your typing speed, accuracy, and time using a terminal-based app written in Java.
 
 ### 📝 [Resume Builder App](https://github.com/anujyadav2244/resume-builder)  
-A clean and simple Spring Boot + Thymeleaf app to generate downloadable resumes.
+A clean and simple Spring Boot app to generate downloadable resumes.
 
 ---
 
