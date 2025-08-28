@@ -72,7 +72,3 @@ A clean and simple Spring Boot app to generate downloadable resumes.
 </p>
 
 ---
-
-<p align="center">
-  Built with 💻 and ☕ by Anuj Yadav
-</p>
