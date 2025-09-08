@@ -13,7 +13,7 @@
 - 🚀 Focused on full-stack development using Java Spring Boot and React
 - 🔧 Love building tools that automate and simplify daily tasks
 - 💬 Always learning, building, and sharing
-
+- 📫 Reach me at anujyadavjnp02@gmail.com.
 ---
 
 ## 🛠 Tech Stack
