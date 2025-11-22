@@ -42,7 +42,7 @@
 
 ## 📌 Featured Projects
 
-### 🏏 [Cricbook – Local Cricket Scoring Web App](https://github.com/anujyadav2244/cricbook)  
+### 🏏 [Cricriser – Local Cricket Scoring Web App](https://github.com/anujyadav2244/cricriser)  
 Manage local tournaments with teams, matches, live score updates, and commentary. Built using Spring Boot + Firebase + React.
 
 ### 🤖 [AI News Summarizer](https://github.com/anujyadav2244/news-summarizer)  
