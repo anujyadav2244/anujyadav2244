@@ -2,7 +2,7 @@
 
 <p >
   <strong>Software Developer | Java Full-Stack Enthusiast</strong><br/>
-  Currently building <a href="https://github.com/anujyadav2244/Cricriser-Local-Cricket-Scoring-Web-App">Cricriser - Local Cricket Scoring Web App</a>
+  Currently building <a href="https://github.com/anujyadav2244/Cricriser.git">Cricriser - Local Cricket Scoring Web App</a>
 </p>
 
 ---
