@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Anuj Yadav 👋</h1>
 
 <p >
-  <strong>Software Developer | Java Full-Stack Enthusiast</strong><br/>
+  <strong>Software Developer | Java Developer</strong><br/>
   Currently building <a href="https://github.com/anujyadav2244/Cricriser.git">Cricriser - Local Cricket Scoring Web App</a>
 </p>
 
