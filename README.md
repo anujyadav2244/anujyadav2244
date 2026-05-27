@@ -56,13 +56,6 @@ A clean and simple Spring Boot app to generate downloadable resumes.
 
 ---
 
-## 📊 GitHub Stats
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujyadav2244&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujyadav2244&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 <p>
